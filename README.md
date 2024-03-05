@@ -5,3 +5,5 @@ Use 3-d CNN backbones from MONAI (pytorch implementations) to classify CTs into 
 2. Train a 3-D CNN (DenseNet121 backbone)
 3. Evaluate accuracy
 4. Carry out sensitivity analysis using Occlusion Sensitivity 
+
+Code base for paper submission
